@@ -1,3 +1,0 @@
-title: "Fakhri Shahhuseynbayov"
-description: "My personal website"
-theme: minima
