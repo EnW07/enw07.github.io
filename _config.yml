@@ -1,0 +1,16 @@
+title: "Fakhri Shahhuseynbayov"
+description: "Personal portfolio website"
+theme: minima
+
+# This controls which pages appear in the top navigation
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+
+# So Jekyll knows your site URL
+url: "https://enw07.github.io"
+baseurl: ""   # keep empty because you're using username.github.io as the root
+
+# So minima can show your GitHub link in the footer
+github_username: enw07
