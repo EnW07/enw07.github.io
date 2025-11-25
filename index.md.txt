@@ -1,0 +1,9 @@
+---
+layout: home
+title: "Welcome"
+---
+
+# Hi, I’m Fakhri  
+I am an Engineering student at ADA University.
+
+Welcome to my personal website.

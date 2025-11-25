@@ -1,0 +1,13 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
+# Projects
+
+## Project 1
+Description of your project.  
+(Screenshot will be added later.)
+
+---
