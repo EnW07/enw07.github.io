@@ -6,10 +6,12 @@ permalink: /projects/
 
 # Projects
 
-## Project 1 – (replace with your project name)
-Short description of what this project does, what technologies you used, and what you learned.
+<div class="projects-grid">
 
-![Screenshot of Project 1](/assets/images/project1.png)
+  <div class="project-card">
+    <h2>Project 1</h2>
+    <p>This is where you will describe your first project. Include what it does, how you built it, and what you learned.</p>
+    <img src="/assets/images/project1.png" alt="Project 1 screenshot">
+  </div>
 
-*I will update this page as I complete more projects.*
-
+</div>
