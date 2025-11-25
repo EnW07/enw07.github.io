@@ -45,3 +45,24 @@ body {
   font-size: 0.9rem;
   color: #777;
 }
+/* Remove big empty space above the site title */
+.site-header {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* Make main content start slightly higher */
+.page-content {
+  padding-top: 1.5rem;
+}
+
+/* Make links look clean */
+a {
+  color: #005cc5;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
