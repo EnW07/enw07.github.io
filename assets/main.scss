@@ -1,0 +1,47 @@
+---
+---
+
+@import "minima";
+
+/* Your custom styles go below */
+
+/* 1) Global font + text tweaks */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.7;
+}
+
+/* 2) Center content and make it narrower (similar to jackkershaw.net) */
+.page-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem 4rem;
+}
+
+/* 3) Make the site title smaller + lighter */
+.site-title {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+/* 4) Space out nav links a bit */
+.site-nav .page-link {
+  margin-left: 1.5rem;
+}
+
+/* 5) Make main page headings nicer */
+.page-heading {
+  font-size: 2.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.page-content h1 {
+  font-size: 2rem;
+  margin-top: 0;
+}
+
+/* 6) Footer: smaller and subtle */
+.site-footer {
+  font-size: 0.9rem;
+  color: #777;
+}
