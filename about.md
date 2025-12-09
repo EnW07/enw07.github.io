@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div class="about-section">
+<div class="about-section" markdown="1">
 
 # About Me
 
