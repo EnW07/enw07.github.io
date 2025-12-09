@@ -12,9 +12,20 @@ permalink: /projects/
   <div class="project-card">
     <h2>Project 1 – How Does Hardware Work?</h2>
     <p>
-      Short description of what this project does, which technologies you used,
-      and what you learned while building it.
+      In this project we, Team 50, built NOT, OR, AND, NAND, and XOR gates on a breadboard.
     </p>
     <img src="/assets/images/project1.png" alt="Project 1 screenshot">
   </div>
+
+
+  <div class="project-card">
+    <h2>Project 2 – Hour Of Code</h2>
+    <p>
+      In this project we, Team 50, provided an informatics lesson in a school without computers.
+    </p>
+    <img src="/assets/images/project2.png" alt="Screenshot of Project 2">
+  </div>
+
+
+
 </div>
