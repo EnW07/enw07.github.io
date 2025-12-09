@@ -4,14 +4,23 @@ title: Projects
 permalink: /projects/
 ---
 
+<div class="projects-page" markdown="1">
+
 # Projects
+
+Below are some of the projects I worked on during the course.
 
 <div class="projects-grid">
 
   <div class="project-card">
-    <h2>Project 1</h2>
-    <p>This is where you will describe your first project. Include what it does, how you built it, and what you learned.</p>
-    <img src="/assets/images/project1.png" alt="Project 1 screenshot">
+  ## Project 1 – (replace with real title)
+
+  Short description of what this project does, which technologies you used, and what you learned while building it.
+
+  ![Screenshot of Project 1](/assets/images/project1.png)
+
   </div>
+
+</div>
 
 </div>
